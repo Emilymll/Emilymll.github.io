@@ -1,7 +1,7 @@
-http://example.com/2024/10/22/Django/
+http://example.com/2024/10/10/New%20Life/
 http://example.com/about/index.html
 http://example.com/2023/12/10/HelloWorld/
-http://example.com/2024/10/10/New%20Life/
+http://example.com/2024/10/22/Django/
 http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/link/index.html
